@@ -1,4 +1,4 @@
-This program translate English to Arabic text in the Linux command line.
+This program translates English to Arabic text in the Linux command line.
 
 To use this program, you must install the following libraries for Python3:
 
